@@ -1,5 +1,5 @@
-#indef main_h
-#define main_h
+#indef MAIN_H
+#define MAIN_H
 
 int _putcher(char);
 void print_alphabet(void);
